@@ -6,7 +6,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my B.Tech in Computer Science at KLUniversity.
+- 🔭 I'm currently pursuing my B.Tech in Computer Science at KLUniversity Vijayawada.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
